@@ -1,0 +1,2 @@
+Crea un archivo nuevo: Dentro de tu proyecto, crea un nuevo archivo llamado Prueba.txt y escribe
+algo de texto en él.
